@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
           {
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': 'Bearer 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', // Replace with your actual API key
+              'Authorization': 'Bearer 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', // Replace with your actual API key
             },
           }
         );
